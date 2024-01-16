@@ -28,4 +28,6 @@ public class ScoreManager : MonoBehaviour
     {
         scoreText.text = comboScore.ToString();
     }
+
+    
 }
